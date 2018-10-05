@@ -1,11 +1,11 @@
 
 TITLE: 
-Glow - 100% Fully Responsive Free HTML5 Bootstrap Template
+Glow - 100% Fully Responsive paid HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by paidHTML5.co
 
-Website: http://freehtml5.co/
+Website: http://paidhtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
